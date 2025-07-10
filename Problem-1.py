@@ -18,7 +18,6 @@ class Calculator:
         else:
             return "Invalid operation type"
 
-# Example usage
 a = float(input("Enter first number (a): "))
 b = float(input("Enter second number (b): "))
 operation = input("Enter operation (Addition, Subtraction, Multiplication, Division): ")
